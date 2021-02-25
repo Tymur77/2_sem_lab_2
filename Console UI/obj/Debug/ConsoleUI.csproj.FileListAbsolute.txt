@@ -1,0 +1,15 @@
+/Users/viktoria/Documents/C#/MyTestApplication/ConsoleUI/bin/Debug/ConsoleUI.exe
+/Users/viktoria/Documents/C#/MyTestApplication/ConsoleUI/bin/Debug/ConsoleUI.pdb
+/Users/viktoria/Documents/C#/MyTestApplication/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache
+/Users/viktoria/Documents/C#/MyTestApplication/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/viktoria/Documents/C#/MyTestApplication/ConsoleUI/obj/Debug/ConsoleUI.exe
+/Users/viktoria/Documents/C#/MyTestApplication/ConsoleUI/obj/Debug/ConsoleUI.pdb
+/Users/viktoria/Documents/C#/Test Application/Console UI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache
+/Users/viktoria/Documents/C#/Test Application/Console UI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/viktoria/Documents/C#/Test Application/Console UI/bin/Debug/DemoLibrary.dll
+/Users/viktoria/Documents/C#/Test Application/Console UI/bin/Debug/DemoLibrary.pdb
+/Users/viktoria/Documents/C#/Test Application/Console UI/obj/Debug/ConsoleUI.csproj.CopyComplete
+/Users/viktoria/Documents/C#/Test Application/Console UI/bin/Debug/Test.exe
+/Users/viktoria/Documents/C#/Test Application/Console UI/bin/Debug/Test.pdb
+/Users/viktoria/Documents/C#/Test Application/Console UI/obj/Debug/Test.exe
+/Users/viktoria/Documents/C#/Test Application/Console UI/obj/Debug/Test.pdb

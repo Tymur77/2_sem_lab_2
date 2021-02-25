@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4CFBF4AD-BA11-4774-884A-B17209E27781}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console UI/Program.cs">
+    <Files>
+      <File FileName="Console UI/Program.cs" Line="59" Column="39" />
+      <File FileName="Demo Library/MyList.cs" Line="47" Column="37" />
+      <File FileName="Demo Library/MyDict.cs" Line="9" Column="30" />
+      <File FileName="Demo Library/MyClass.cs" Line="12" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApplication" expanded="True">
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DemoLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>DemoLibrary/DemoLibrary.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

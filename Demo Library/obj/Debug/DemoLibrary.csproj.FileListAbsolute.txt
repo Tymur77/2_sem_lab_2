@@ -1,0 +1,6 @@
+/Users/viktoria/Documents/C#/Test Application/Demo Library/bin/Debug/DemoLibrary.dll
+/Users/viktoria/Documents/C#/Test Application/Demo Library/bin/Debug/DemoLibrary.pdb
+/Users/viktoria/Documents/C#/Test Application/Demo Library/obj/Debug/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/viktoria/Documents/C#/Test Application/Demo Library/obj/Debug/DemoLibrary.dll
+/Users/viktoria/Documents/C#/Test Application/Demo Library/obj/Debug/DemoLibrary.pdb
+/Users/viktoria/Documents/C#/Test Application/Demo Library/obj/Debug/DemoLibrary.csprojAssemblyReference.cache
